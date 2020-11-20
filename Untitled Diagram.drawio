@@ -1,28 +1,73 @@
-<mxfile host="app.diagrams.net" modified="2020-11-18T21:30:56.635Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36" etag="t1SZ0Fg2yWQS-DnjGg-S" version="13.9.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T17:29:53.369Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="tBn-7c7o5cntihMrMLtP" version="13.10.0" type="github">
   <diagram id="jnb862is--5lGJ5BkZxe" name="Page-1">
     <mxGraphModel dx="786" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gsTY27Mihw2Xw5OF8fJs-1" value="LOGIN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="gsTY27Mihw2Xw5OF8fJs-1" value="LOGIN" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gsTY27Mihw2Xw5OF8fJs-2" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gsTY27Mihw2Xw5OF8fJs-1">
+        <mxCell id="gsTY27Mihw2Xw5OF8fJs-2" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="gsTY27Mihw2Xw5OF8fJs-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="280" as="sourcePoint" />
             <mxPoint x="330" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gsTY27Mihw2Xw5OF8fJs-3" value="SHOW DATES&lt;br&gt;IN BIG CALENDAR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gsTY27Mihw2Xw5OF8fJs-3" value="SHOW DATES&lt;br&gt;IN BIG CALENDAR" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gsTY27Mihw2Xw5OF8fJs-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="gsTY27Mihw2Xw5OF8fJs-4" value="Show a clickable list" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gsTY27Mihw2Xw5OF8fJs-5" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gsTY27Mihw2Xw5OF8fJs-3">
+        <mxCell id="gsTY27Mihw2Xw5OF8fJs-5" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.042;entryY=0.383;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="gsTY27Mihw2Xw5OF8fJs-3" edge="1" target="1hKTZEvCLKyvlTaHAUQ1-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="270" as="sourcePoint" />
             <mxPoint x="430" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1hKTZEvCLKyvlTaHAUQ1-1" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="90" as="sourcePoint" />
+            <mxPoint x="290" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1hKTZEvCLKyvlTaHAUQ1-2" value="Desktop" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="60" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1hKTZEvCLKyvlTaHAUQ1-3" value="mobile" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="180" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1hKTZEvCLKyvlTaHAUQ1-4" value="Delete" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1hKTZEvCLKyvlTaHAUQ1-5" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gsTY27Mihw2Xw5OF8fJs-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="280" as="sourcePoint" />
+            <mxPoint x="570" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1hKTZEvCLKyvlTaHAUQ1-6" value="Add Event" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1hKTZEvCLKyvlTaHAUQ1-7" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="150" as="sourcePoint" />
+            <mxPoint x="430" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1hKTZEvCLKyvlTaHAUQ1-8" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="150" as="sourcePoint" />
+            <mxPoint x="430" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1hKTZEvCLKyvlTaHAUQ1-9" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="1hKTZEvCLKyvlTaHAUQ1-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="80" as="sourcePoint" />
+            <mxPoint x="150" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
